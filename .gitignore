@@ -1,4 +1,5 @@
 venv/
-__pycacha__/
-*.__pycacha__*.log
+__pycache__/
+*.pyc
+*.log
 db.splite3
